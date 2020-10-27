@@ -1,60 +1,60 @@
 {
     "cropChapterTitles": {
-        "message": "Crop chapter titles"
+        "message": "برش عنوان فصل"
     },
     "about": {
-        "message": "About"
+        "message": "درباره"
     },
     "accept": {
-        "message": "Accept"
+        "message": "تائید"
     },
     "activate": {
-        "message": "Activate"
+        "message": "فعال"
     },
     "activateCaptions": {
-        "message": "Activate captions"
+        "message": "شرح فعال"
     },
     "activated": {
-        "message": "Activated"
+        "message": "فعال شده"
     },
     "activatedFeatures": {
-        "message": "Activated features"
+        "message": "ویژگی ها فعال شده"
     },
     "activateFullscreen": {
-        "message": "Activate fullscreen"
+        "message": "فعال کردن تمام صفحه"
     },
     "activeFeatures": {
-        "message": "Active features"
+        "message": "ویژگی ها فعال"
     },
     "addScrollToTop": {
-        "message": "Add «Scroll to top»"
+        "message": "اضافه کردن «اسکرول به بالا»"
     },
     "ads": {
-        "message": "Ads"
+        "message": "تبلیغات"
     },
     "all": {
-        "message": "All"
+        "message": "همه"
     },
     "allow": {
-        "message": "Allow"
+        "message": "مجاز"
     },
     "allow60fps": {
-        "message": "Allow 60fps"
+        "message": "مجاز 60fps"
     },
     "alwaysActive": {
-        "message": "Always active"
+        "message": "همیشه فعال"
     },
     "alwaysShowProgressBar": {
-        "message": "Always show progress bar"
+        "message": "همیشه نواز پردازش را نمایش بده"
     },
     "amber": {
         "message": "Amber"
     },
     "analyzer": {
-        "message": "Analyzer"
+        "message": "تحلیل کننده"
     },
     "appearance": {
-        "message": "Appearance"
+        "message": "نمایش"
     },
     "ARROWDOWN": {
         "message": "⇩"
@@ -69,82 +69,82 @@
         "message": "⇧"
     },
     "audio": {
-        "message": "Audio"
+        "message": "صدا"
     },
     "audioFormats": {
-        "message": "Audio formats"
+        "message": "پسوند صدا"
     },
     "auto": {
-        "message": "Auto"
+        "message": "خودکار"
     },
     "autoFullscreen": {
-        "message": "Auto-fullscreen"
+        "message": "تمام صفحه-خودکار"
     },
     "autopauseWhenSwitchingTabs": {
-        "message": "Autopause when switching tabs"
+        "message": "مکس خودکار هنگام تغییر تب"
     },
     "autoplay": {
-        "message": "Autoplay"
+        "message": "پخش خودکار"
     },
     "backupAndReset": {
-        "message": "Backup & reset"
+        "message": "پشتیبان & ریست"
     },
     "baseOnSystemColorScheme": {
-        "message": "Base on system color scheme"
+        "message": "بر اساس طرح رنگ سیستم"
     },
     "belowPlayer": {
         "message": "Below player"
     },
     "black": {
-        "message": "Black"
+        "message": "سیاه"
     },
     "blacklist": {
-        "message": "Blacklist"
+        "message": "لیست سیاه"
     },
     "blockAll": {
-        "message": "Block all"
+        "message": "مسدود کردن همه"
     },
     "blue": {
-        "message": "Blue"
+        "message": "آبی"
     },
     "blueGray": {
-        "message": "Blue gray"
+        "message": "آبی خاکستری"
     },
     "bluelight": {
-        "message": "Bluelight"
+        "message": "نور آبی"
     },
     "brown": {
-        "message": "Brown"
+        "message": "قهوه ای"
     },
     "browser": {
-        "message": "Browser"
+        "message": "مرورگر"
     },
     "browserVersion": {
-        "message": "Browser version"
+        "message": "نسخه مرورگر"
     },
     "bubbles": {
-        "message": "Bubbles"
+        "message": "حباب ها"
     },
     "bug": {
-        "message": "Bug"
+        "message": "ایراد"
     },
     "buttons": {
-        "message": "Buttons"
+        "message": "دکمه ها"
     },
     "cancel": {
-        "message": "Cancel"
+        "message": "انصراف"
     },
     "categories": {
-        "message": "Categories"
+        "message": "دسته ها"
     },
     "channel": {
-        "message": "Channel"
+        "message": "کانال"
     },
     "channels": {
-        "message": "Channels"
+        "message": "کانال ها"
     },
     "clipboard": {
-        "message": "Clipboard"
+        "message": "حافضه موقت"
     },
     "codecH264": {
         "message": "Codec h.264"
@@ -156,211 +156,211 @@
         "message": "Collapse of subscription sections"
     },
     "comments": {
-        "message": "Comments"
+        "message": "نظرات"
     },
     "confirmationBeforeClosing": {
-        "message": "Confirmation before closing"
+        "message": "تائید قبل از بستن"
     },
     "cookies": {
-        "message": "Cookies"
+        "message": "کوکی ها"
     },
     "cores": {
         "message": "Cores"
     },
     "customCss": {
-        "message": "Custom CSS"
+        "message": "سفارشی CSS"
     },
     "customJs": {
-        "message": "Custom JS"
+        "message": "سفارشی JS"
     },
     "cyan": {
-        "message": "Cyan"
+        "message": "آبی روشن"
     },
     "dark": {
-        "message": "Dark"
+        "message": "تاریک"
     },
     "darkTheme": {
-        "message": "Dark theme"
+        "message": "تم تاریک"
     },
     "dateAndTime": {
-        "message": "Date & time"
+        "message": "تاریخ & زمان"
     },
     "dawn": {
         "message": "Dawn"
     },
     "decreasePlaybackSpeed": {
-        "message": "Decrease playback speed"
+        "message": "کم کردن سرعت پخش"
     },
     "decreaseVolume": {
-        "message": "Decrease volume"
+        "message": "کم کردن صدا"
     },
     "deepOrange": {
-        "message": "Deep orange"
+        "message": "نارنجی سیر"
     },
     "deepPurple": {
-        "message": "Deep purple"
+        "message": "بنفش سیر"
     },
     "defaultChannelTab": {
-        "message": "Default channel tab"
+        "message": "زبانه پیش فرض کنال"
     },
     "deleteYoutubeCookies": {
-        "message": "Delete YouTube cookies"
+        "message": "پاک کردن کوکی های یوتیوب"
     },
     "description": {
-        "message": "Description"
+        "message": "شرح"
     },
     "desert": {
-        "message": "Desert"
+        "message": "متروکه"
     },
     "details": {
-        "message": "Details"
+        "message": "جزئیات"
     },
     "developerOptions": {
-        "message": "Developer options"
+        "message": "تنظیمات توسعه دهنده"
     },
     "device": {
-        "message": "Device"
+        "message": "سخت افزار"
     },
     "dim": {
-        "message": "Dim"
+        "message": "کم"
     },
     "disabled": {
-        "message": "Disabled"
+        "message": "غیر فعال شده"
     },
     "dislike": {
-        "message": "Dislike"
+        "message": "نپسندیدن"
     },
     "donate": {
-        "message": "Donate"
+        "message": "حمایت"
     },
     "doNotChange": {
-        "message": "Don't change"
+        "message": "تغییر ندادن"
     },
     "draggable": {
-        "message": "Draggable"
+        "message": "قابل کشیدن و رها کردن"
     },
     "email": {
-        "message": "Email"
+        "message": "ایمیل"
     },
     "empty": {
-        "message": "Empty"
+        "message": "خالی"
     },
     "enabled": {
-        "message": "Enabled"
+        "message": "فعال شده"
     },
     "enabledForced": {
-        "message": "Enabled (forced)"
+        "message": "فعال شده (فوری)"
     },
     "expanded": {
-        "message": "Expanded"
+        "message": "گسترده"
     },
     "exportSettings": {
-        "message": "Export settings"
+        "message": "برون ریزی تنظیمات"
     },
     "extension": {
-        "message": "Extension"
+        "message": "افزونه"
     },
     "file": {
-        "message": "File"
+        "message": "فایل"
     },
     "filters": {
-        "message": "Filters"
+        "message": "فیلتر ها"
     },
     "fitToWindow": {
-        "message": "Fit to window"
+        "message": "هم عرض صفحه"
     },
     "flash": {
         "message": "Flash"
     },
     "font": {
-        "message": "Font"
+        "message": "فونت"
     },
     "footer": {
-        "message": "Footer"
+        "message": "زیر صفحه"
     },
     "forcedPlaybackSpeed": {
-        "message": "Forced playback speed"
+        "message": "سرعت پخش اجباری"
     },
     "forcedTheaterMode": {
-        "message": "Forced theater mode"
+        "message": "حالت تئاتر اجباری"
     },
     "forcedVolume": {
-        "message": "Forced volume"
+        "message": "حجم اجباری"
     },
     "foundABug": {
-        "message": "Found a bug?"
+        "message": "ایرادی پیدا کردید?"
     },
     "fullWindow": {
-        "message": "Full window"
+        "message": "تمام صفحه"
     },
     "general": {
-        "message": "General"
+        "message": "عمومی"
     },
     "github": {
         "message": "GitHub"
     },
     "goToSearchBox": {
-        "message": "Go to search box"
+        "message": "برو به جعبه جستجو"
     },
     "gpu": {
-        "message": "GPU"
+        "message": "گرافیک"
     },
     "green": {
-        "message": "Green"
+        "message": "سبز"
     },
     "hdThumbnail": {
-        "message": "HD thumbnail"
+        "message": "HD پیش نمایش"
     },
     "hdThumbnails": {
-        "message": "HD thumbnails"
+        "message": "HD پیش نمایش های"
     },
     "header": {
-        "message": "Header"
+        "message": "سر صفحه"
     },
     "hidden": {
-        "message": "Hidden"
+        "message": "مخفی"
     },
     "hiddenOnVideoPage": {
-        "message": "Hidden on video page"
+        "message": "مخفی در صفحه ویدئو"
     },
     "hideAnimatedThumbnails": {
         "message": "Hide animated thumbnails"
     },
     "hideAnnotations": {
-        "message": "Hide annotations"
+        "message": "مخفی کردن حاشیه ها"
     },
     "hideCards": {
         "message": "Hide cards"
     },
     "hideDetails": {
-        "message": "Hide details"
+        "message": "مخفی کردن جزئیات"
     },
     "hideEndscreen": {
-        "message": "Hide endscreen"
+        "message": "مخفی کردن انتهای صفحه"
     },
     "hideFeaturedContent": {
-        "message": "Hide featured content"
+        "message": "مخفی کردن محتوای ويژه"
     },
     "hideFooter": {
-        "message": "Hide footer"
+        "message": "مخفی کردن پابرگ"
     },
     "hidePlaylist": {
-        "message": "Hide playlist"
+        "message": "مخفی کردن لیست پخش"
     },
     "hideRightButtons": {
-        "message": "Hide right buttons"
+        "message": "مخفی کردن دکمه های سمت راست"
     },
     "hideScrollForDetails": {
-        "message": "Hide «Scroll for details»"
+        "message": "مخفی «اسکرول برای جزئیات»"
     },
     "hideViewsCount": {
-        "message": "Hide views count"
+        "message": "مفی کردن تعداد نمایش"
     },
     "history": {
-        "message": "History"
+        "message": "تاریخچه"
     },
     "home": {
-        "message": "Home"
+        "message": "خانه"
     },
     "hover": {
         "message": "Hover"
@@ -369,13 +369,13 @@
         "message": "Hover on video page"
     },
     "howLongAgoTheVideoWasUploaded": {
-        "message": "How long ago the video was uploaded"
+        "message": "چه زمانی ویدئو آپلود شده است"
     },
     "icons": {
-        "message": "Icons"
+        "message": "آیکون ها"
     },
     "iconsOnly": {
-        "message": "Icons only"
+        "message": "فقط آیکون ها"
     },
     "importSettings": {
         "message": "Import settings"
